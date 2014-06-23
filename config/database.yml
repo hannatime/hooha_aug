@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: hooha_aug_development
+  database: hooha_aug
   pool: 5
   username: hooha_aug
   password:
